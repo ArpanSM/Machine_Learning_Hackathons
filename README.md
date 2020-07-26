@@ -19,3 +19,4 @@ Data Science
 * Advanced Regression Stacking
 * Data Imputation
 * MICE - KNN - FancyImpute - Datawig
+* H2O.ai AutoML
