@@ -1,9 +1,9 @@
 Image Classification
-> AutoKeras
-> Learning Rate LR Finder
-> Cyclice Learning Rate
-> Pre - Trained Models
-> OCR
+* AutoKeras
+* Learning Rate LR Finder
+* Cyclice Learning Rate
+* Pre - Trained Models
+* OCR
 
 Natural Language Processing
 > OCR
