@@ -25,5 +25,5 @@ Data Science
 Competitions
 * Analytics Vidhya - Hackathons
 * MachineHack
-*** Kaggle
-** HackerEarth
+* Kaggle
+* HackerEarth
