@@ -18,4 +18,4 @@ Data Science
 * Stacking
 * Advanced Regression Stacking
 * Data Imputation
-*> MICE - KNN - FancyImpute - Datawig
+* MICE - KNN - FancyImpute - Datawig
