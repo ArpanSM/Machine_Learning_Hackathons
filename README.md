@@ -8,7 +8,7 @@ Image Classification
 Natural Language Processing
 * OCR
 * Sentiment Analysis
-* Autocorrecr
+* Autocorrect
 * Vader Sentiment Analysis
 
 Data Science
