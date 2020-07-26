@@ -20,3 +20,10 @@ Data Science
 * Data Imputation
 * MICE - KNN - FancyImpute - Datawig
 * H2O.ai AutoML
+
+
+Competitions
+***Analytics Vidhya - Hackathons
+***MachineHack
+***Kaggle
+***HackerEarth
