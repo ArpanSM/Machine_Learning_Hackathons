@@ -20,6 +20,8 @@ Data Science
 * Data Imputation
 * MICE - KNN - FancyImpute - Datawig
 * H2O.ai AutoML
+* PyCaret
+* HyperOpt - Bayesian Optimization
 
 
 Competitions
